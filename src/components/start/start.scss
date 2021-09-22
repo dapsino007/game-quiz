@@ -1,0 +1,85 @@
+
+.start{
+  display: flex;
+  flex-direction: column;
+  width: 100vh;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  transition: all 3s ease-in;
+
+  .title{
+    display: flex;
+    margin: 10px;
+   
+    .img{
+      width:250px;
+      flex: 1;
+      transform: rotate(-10deg);
+      transition: all 1s ease-in;
+    }
+    .text{
+      margin: auto;
+      flex: 1;
+      transition: all 1s ease-in;
+      border: solid teal 1px;
+      border-radius: 50%;
+    }
+  
+    &.rotate{
+      .img{
+      transform: rotate(10deg);
+      }
+      .text{
+      transform: scale(1.2) rotate(-10deg);
+      }
+    }
+  }
+
+  &.clear{
+    opacity: 0;
+  }
+
+  .form{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+    padding-left: 50px;
+    width: 70%;
+
+    .startInput {
+      width: 100%;
+      height: 30px;
+      border: none;
+      border-radius: 5px;
+      text-align: center;
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
+
+    .startInput:focus {
+      outline: none;
+    }
+    
+    .startButton {
+      width: 100%;
+      height: 30px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(29, 27, 105);
+      color: grey;
+      cursor: pointer;
+      font-size: 18px;
+      font-weight: 500;
+      transition: all .5s ease;
+
+      &:hover{
+        color: #fff;
+        background-color: teal;
+        
+      }
+    }
+  }
+  
+}
