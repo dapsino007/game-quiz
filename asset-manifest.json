@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/game-quiz/static/css/main.ce582365.chunk.css",
+    "main.js": "/game-quiz/static/js/main.a7c4963c.chunk.js",
+    "main.js.map": "/game-quiz/static/js/main.a7c4963c.chunk.js.map",
+    "runtime-main.js": "/game-quiz/static/js/runtime-main.4fdc2867.js",
+    "runtime-main.js.map": "/game-quiz/static/js/runtime-main.4fdc2867.js.map",
+    "static/js/2.1ce4baf8.chunk.js": "/game-quiz/static/js/2.1ce4baf8.chunk.js",
+    "static/js/2.1ce4baf8.chunk.js.map": "/game-quiz/static/js/2.1ce4baf8.chunk.js.map",
+    "static/js/3.3e84b995.chunk.js": "/game-quiz/static/js/3.3e84b995.chunk.js",
+    "static/js/3.3e84b995.chunk.js.map": "/game-quiz/static/js/3.3e84b995.chunk.js.map",
+    "index.html": "/game-quiz/index.html",
+    "static/css/main.ce582365.chunk.css.map": "/game-quiz/static/css/main.ce582365.chunk.css.map",
+    "static/js/2.1ce4baf8.chunk.js.LICENSE.txt": "/game-quiz/static/js/2.1ce4baf8.chunk.js.LICENSE.txt",
+    "static/js/3.3e84b995.chunk.js.LICENSE.txt": "/game-quiz/static/js/3.3e84b995.chunk.js.LICENSE.txt",
+    "static/media/correct.160572d7.mp3": "/game-quiz/static/media/correct.160572d7.mp3",
+    "static/media/dollars.5fca6958.png": "/game-quiz/static/media/dollars.5fca6958.png",
+    "static/media/play.8e5f6d1d.mp3": "/game-quiz/static/media/play.8e5f6d1d.mp3",
+    "static/media/app.scss": "/game-quiz/static/media/stage.7bc614ee.jpeg",
+    "static/media/wind.c8e09cfd.wav": "/game-quiz/static/media/wind.c8e09cfd.wav",
+    "static/media/wrong.e9468218.mp3": "/game-quiz/static/media/wrong.e9468218.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fdc2867.js",
+    "static/js/2.1ce4baf8.chunk.js",
+    "static/css/main.ce582365.chunk.css",
+    "static/js/main.a7c4963c.chunk.js"
+  ]
+}
